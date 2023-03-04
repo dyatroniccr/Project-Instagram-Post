@@ -27,11 +27,11 @@ body {
 
 /*div {
     border:1px solid rgb(10, 228, 39);
-    /*align-items: flex-end;
+    align-items: flex-end;
 justify-content: center;
 flex-direction: row-reverse;
-align-items: flex-end; 
-}*/
+align-items: flex-end; */
+
 
 .elipsis-menu {
     padding-left: auto;
@@ -45,19 +45,15 @@ align-items: flex-end;
     margin: auto;
 }
 
-.user-interaction {
+.user-interaction {    
     margin-left: 13px;    
     display: flex;
-    flex-direction: row;  
-}
-.banderin{
-    padding-left: 65%;     
-    display: flex;
-    justify-content: flex-end; 
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 #user-interaction {
-    margin: 4px;   
+    margin: 4px;    
 }
 
 .parrafo, .parrafo-especial {
